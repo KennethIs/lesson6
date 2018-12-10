@@ -1,0 +1,6 @@
+name = input('What is your name? ')
+print('Nice to meet you '+ name + '! My name is Tsering chan!')
+age = input('How old are you? ')
+print("You're " + age + ' years old? Wow, I was born today.' )
+feeling =input('How are you feeling today? ')
+print("Really? That sucks, but I'm sure you'll get better by the end of today!")
